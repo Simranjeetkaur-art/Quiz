@@ -1,0 +1,317 @@
+{
+  "brandColors": {
+    "primary": "#2563eb",
+    "secondary": "#7c3aed",
+    "red": "#E74C3C",
+    "amber": "#F39C12",
+    "green": "#27AE60"
+  },
+  "sections": [
+    {
+      "id": 1,
+      "title": "Strategic Planning",
+      "description": "Evaluate your organization's approach to strategic planning, goal setting, and long-term vision.",
+      "insightStatements": {
+        "0-30": "Your strategic planning processes need significant development. Focus on establishing clear vision statements and engaging stakeholders in the planning process.",
+        "31-60": "You have basic strategic planning in place, but there's room for improvement. Consider implementing more structured frameworks and regular review cycles.",
+        "61-100": "Strong strategic planning capabilities. Continue refining your approach and ensure alignment across all organizational levels."
+      },
+      "questions": [
+        {
+          "id": 1,
+          "text": "Does your organization have a clearly defined strategic vision for the next 3-5 years?",
+          "answers": [
+            {
+              "option": "Red",
+              "score": 0,
+              "tip": "Develop a comprehensive strategic vision statement with input from key stakeholders. Schedule a strategic planning session within the next quarter."
+            },
+            {
+              "option": "Amber",
+              "score": 5,
+              "tip": "Refine your strategic vision to make it more specific and measurable. Ensure all leadership team members can articulate it clearly."
+            },
+            {
+              "option": "Green",
+              "score": 10,
+              "tip": "Excellent! Maintain regular reviews of your strategic vision and adjust as market conditions change. Consider extending your planning horizon."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "text": "How frequently does your leadership team review and adjust strategic priorities?",
+          "answers": [
+            {
+              "option": "Red",
+              "score": 0,
+              "tip": "Establish a quarterly strategic review process. Create a calendar of regular leadership meetings focused on strategic priorities."
+            },
+            {
+              "option": "Amber",
+              "score": 5,
+              "tip": "Increase the frequency of strategic reviews. Implement a monthly check-in system to monitor progress on key initiatives."
+            },
+            {
+              "option": "Green",
+              "score": 10,
+              "tip": "Great cadence! Ensure your review process includes data-driven insights and clear accountability measures."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "text": "Are strategic goals cascaded and aligned throughout all levels of your organization?",
+          "answers": [
+            {
+              "option": "Red",
+              "score": 0,
+              "tip": "Implement an OKR (Objectives and Key Results) framework to cascade goals. Train managers on goal alignment techniques."
+            },
+            {
+              "option": "Amber",
+              "score": 5,
+              "tip": "Strengthen the connection between departmental and organizational goals. Create visual alignment maps to show how individual work contributes to strategy."
+            },
+            {
+              "option": "Green",
+              "score": 10,
+              "tip": "Excellent alignment! Continue to reinforce connections through regular communication and celebrate wins that demonstrate goal achievement."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Operational Excellence",
+      "description": "Assess the efficiency and effectiveness of your operational processes and systems.",
+      "insightStatements": {
+        "0-30": "Operational processes need significant improvement. Prioritize documenting workflows and identifying bottlenecks for immediate attention.",
+        "31-60": "Decent operational foundation with opportunities for optimization. Focus on standardization and process improvement initiatives.",
+        "61-100": "Strong operational capabilities. Continue to drive efficiency through continuous improvement and technology adoption."
+      },
+      "questions": [
+        {
+          "id": 11,
+          "text": "Are your core business processes documented and standardized?",
+          "answers": [
+            {
+              "option": "Red",
+              "score": 0,
+              "tip": "Begin documenting your top 5 critical processes immediately. Use simple flowcharts and assign process owners for each."
+            },
+            {
+              "option": "Amber",
+              "score": 5,
+              "tip": "Expand your process documentation to cover all major workflows. Implement a document management system for easy access and updates."
+            },
+            {
+              "option": "Green",
+              "score": 10,
+              "tip": "Excellent documentation practices! Ensure processes are reviewed annually and updated to reflect best practices and technology changes."
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "text": "How effective is your organization at identifying and eliminating operational inefficiencies?",
+          "answers": [
+            {
+              "option": "Red",
+              "score": 0,
+              "tip": "Establish a continuous improvement program. Train a team in Lean or Six Sigma methodologies to identify waste and inefficiencies."
+            },
+            {
+              "option": "Amber",
+              "score": 5,
+              "tip": "Scale your improvement efforts across more departments. Create an idea management system where employees can suggest process improvements."
+            },
+            {
+              "option": "Green",
+              "score": 10,
+              "tip": "Outstanding! Maintain your improvement culture by recognizing and rewarding innovative efficiency gains. Share success stories widely."
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "text": "Does your organization leverage technology effectively to automate routine tasks?",
+          "answers": [
+            {
+              "option": "Red",
+              "score": 0,
+              "tip": "Conduct a technology assessment to identify automation opportunities. Start with simple tools like workflow automation for repetitive tasks."
+            },
+            {
+              "option": "Amber",
+              "score": 5,
+              "tip": "Expand automation to more areas. Explore RPA (Robotic Process Automation) and AI tools for data processing and decision support."
+            },
+            {
+              "option": "Green",
+              "score": 10,
+              "tip": "Excellent technology adoption! Stay current with emerging automation trends and continuously evaluate ROI on technology investments."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Team & Leadership",
+      "description": "Evaluate leadership effectiveness, team dynamics, and organizational culture.",
+      "insightStatements": {
+        "0-30": "Leadership and team development require immediate attention. Invest in leadership training and team building initiatives.",
+        "31-60": "Solid foundation in team and leadership areas with room to grow. Focus on developing emerging leaders and strengthening team cohesion.",
+        "61-100": "Excellent leadership and team capabilities. Continue investing in people development and maintaining strong organizational culture."
+      },
+      "questions": [
+        {
+          "id": 21,
+          "text": "Does your organization have a structured leadership development program?",
+          "answers": [
+            {
+              "option": "Red",
+              "score": 0,
+              "tip": "Create a leadership development framework that includes mentoring, training, and stretch assignments. Identify high-potential employees for development."
+            },
+            {
+              "option": "Amber",
+              "score": 5,
+              "tip": "Enhance your program with external training opportunities and leadership assessments. Create clear progression paths for emerging leaders."
+            },
+            {
+              "option": "Green",
+              "score": 10,
+              "tip": "Strong leadership development! Measure program effectiveness through 360-degree feedback and track career progression of participants."
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "text": "How well do teams collaborate across departments and functions?",
+          "answers": [
+            {
+              "option": "Red",
+              "score": 0,
+              "tip": "Break down silos by creating cross-functional project teams. Implement collaboration tools and establish regular inter-departmental meetings."
+            },
+            {
+              "option": "Amber",
+              "score": 5,
+              "tip": "Strengthen collaboration through shared goals and joint success metrics. Consider creating communities of practice around key topics."
+            },
+            {
+              "option": "Green",
+              "score": 10,
+              "tip": "Excellent collaboration! Maintain this by celebrating cross-functional successes and ensuring leadership models collaborative behavior."
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "text": "Does your organization regularly measure and act on employee engagement feedback?",
+          "answers": [
+            {
+              "option": "Red",
+              "score": 0,
+              "tip": "Implement regular employee engagement surveys (at least annually). Create action plans based on feedback and communicate changes clearly."
+            },
+            {
+              "option": "Amber",
+              "score": 5,
+              "tip": "Increase survey frequency to quarterly pulse checks. Ensure managers are trained to discuss results with teams and create localized action plans."
+            },
+            {
+              "option": "Green",
+              "score": 10,
+              "tip": "Excellent engagement practices! Continue to close the feedback loop by sharing what you've heard and the actions taken as a result."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Performance & Growth",
+      "description": "Assess your organization's performance management systems and growth strategies.",
+      "insightStatements": {
+        "0-30": "Performance and growth systems need development. Establish clear metrics and regular review processes as immediate priorities.",
+        "31-60": "Good foundation for performance management with opportunities to enhance growth strategies. Focus on data-driven decision making.",
+        "61-100": "Strong performance and growth capabilities. Continue to refine metrics and scale successful growth strategies."
+      },
+      "questions": [
+        {
+          "id": 31,
+          "text": "Does your organization track KPIs (Key Performance Indicators) and make them visible to relevant teams?",
+          "answers": [
+            {
+              "option": "Red",
+              "score": 0,
+              "tip": "Define 5-7 critical KPIs for your organization. Create dashboards that make these metrics visible and accessible to teams who can influence them."
+            },
+            {
+              "option": "Amber",
+              "score": 5,
+              "tip": "Enhance KPI tracking with real-time dashboards and automated reporting. Ensure teams understand how their work impacts key metrics."
+            },
+            {
+              "option": "Green",
+              "score": 10,
+              "tip": "Excellent KPI visibility! Continue to refine metrics based on strategic priorities and ensure they drive the right behaviors."
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "text": "How effectively does your organization identify and pursue new growth opportunities?",
+          "answers": [
+            {
+              "option": "Red",
+              "score": 0,
+              "tip": "Establish a formal process for evaluating growth opportunities. Create an innovation pipeline with clear criteria for prioritization."
+            },
+            {
+              "option": "Amber",
+              "score": 5,
+              "tip": "Strengthen your growth strategy with market research and competitive analysis. Allocate resources specifically for innovation and growth initiatives."
+            },
+            {
+              "option": "Green",
+              "score": 10,
+              "tip": "Strong growth focus! Continue to balance core business optimization with innovation. Consider creating an innovation lab or dedicated team."
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "text": "Are performance reviews conducted regularly and effectively drive employee development?",
+          "answers": [
+            {
+              "option": "Red",
+              "score": 0,
+              "tip": "Implement a structured performance review process with clear criteria and development planning. Train managers on effective feedback techniques."
+            },
+            {
+              "option": "Amber",
+              "score": 5,
+              "tip": "Move beyond annual reviews to continuous feedback. Implement quarterly check-ins and real-time recognition systems."
+            },
+            {
+              "option": "Green",
+              "score": 10,
+              "tip": "Excellent performance management! Ensure the process remains developmental and forward-looking, not just evaluative."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "overallInsights": {
+    "0-100": "Your organization has significant opportunities for improvement across multiple areas. Prioritize building foundational processes in strategic planning and operations. Consider bringing in external expertise to accelerate development. Focus on quick wins that can build momentum.",
+    "101-200": "You've established basic capabilities but have considerable room for growth. Focus on standardizing processes, investing in your people, and strengthening your performance management systems. Create a 90-day improvement plan targeting your weakest areas.",
+    "201-300": "Strong performance overall with pockets of excellence. Continue to build on your strengths while addressing remaining gaps. Focus on scaling best practices across the organization and maintaining momentum through leadership commitment.",
+    "301-400": "Excellent organizational capabilities across all dimensions! You're operating at a high level of maturity. Continue to innovate, stay ahead of industry trends, and maintain your competitive advantage through continuous improvement. Share your practices with industry peers and consider thought leadership opportunities."
+  }
+}
